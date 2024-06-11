@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Sports"
+            },
+            "author": "Joey Riordan with Fox Sports staff writers",
+            "title": "‘Cowardly’ Clarke slammed over radio silence as Buzz takes cheeky dig at Aussie cricket great - Fox Sports",
+            "description": "‘Cowardly’ Clarke slammed over radio silence as Buzz takes cheeky dig at Aussie cricket great",
+            "url": "https://www.foxsports.com.au/cricket/its-fine-buddy-clarke-breaks-silence-on-public-spat-but-fails-to-address-biggest-issue/news-story/3cde6fc2732e18d5abee6276267ec92d",
+            "urlToImage": "https://content.api.news/v3/images/bin/35367f92c3ed3ff74164585125f6b8bd",
+            "publishedAt": "2023-01-23T04:16:00Z",
+            "content": "Cricket great Michael Clarkes infamous Noosa altercation with girlfriend Jade Yarborough was addressed in his return to the airwaves with Big Sports Breakfast on Monday morning. \r\nAppearing for the f… [+6208 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Cricket Australia responds after Indigenous star Ash Gardner's criticism of January 26 game - ABC News",
+            "description": "Cricket Australia says it supports Ashleigh Gardner's stance after the all-rounder criticised the decision to schedule a game on \"a day of hurt and a day of mourning\" for Indigenous Australians.",
+            "url": "https://www.abc.net.au/news/2023-01-23/cricket-australia-responds-ash-gardner-january-26-criticism/101881866",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/c633251fcbb70288f12ae9c099c24ac8?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=514&width=862&height=485",
+            "publishedAt": "2023-01-23T00:48:23Z",
+            "content": "Cricket Australia (CA) says scheduling a Twenty20 match on January 26 is an opportunity to continue an \"ongoing education journey\" with the Indigenous community, after all-rounder and Muruwari woman … [+3629 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cricket.com.au"
+            },
+            "author": "Dave Middleton",
+            "title": "Aussie Test stars in line for BBL finals appearances - cricket.com.au",
+            "description": "With the India tour looming and a pre-tour camp in Sydney this weekend, we break down which BBL clubs will have their Aussie stars for which games of the finals series",
+            "url": "https://www.cricket.com.au/news/bbl-finals-player-availability-australia-test-stars-smith-warner-khawaja-marnus-lyon-head-carey/2023-01-23",
+            "urlToImage": "https://www.cricket.com.au/~/-/media/News/2023/01/23BBL-Test-players.ashx?w=1600",
+            "publishedAt": "2023-01-23T00:47:23Z",
+            "content": "The Sydney Sixers have received a boost ahead of their Qualifier final trip to Perth with confirmation Steve Smith and Nathan Lyon will be available for the match ahead of the India Test tour. \r\nThe … [+6134 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Sports"
+            },
+            "author": "Fox Sports",
+            "title": "AFL 2023, news: Collingwood Magpies star Jack Ginnivan hits country cricket century - Fox Sports",
+            "description": "Collingwood star blasts rapid unbeaten century in country cricket",
+            "url": "https://www.foxsports.com.au/afl/teams/collingwood-magpies/afl-2023-news-collingwood-magpies-star-jack-ginnivan-hits-country-cricket-century/news-story/cb9257959d730ea856a81239cb014d20",
+            "urlToImage": "https://content.api.news/v3/images/bin/cb00a92a9871e8bf2be40da5f9b46bad",
+            "publishedAt": "2023-01-23T00:46:00Z",
+            "content": "Jack Ginnivan swapped the footy boots for some cricket whites on Saturday and showcased his other sporting talents with a devastating century in country cricket. \r\nThe Magpies forward lined up for hi… [+1027 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Paul Kennedy",
+            "title": "Meet the man who organised the historic catch up between Sir Donald Bradman and Sachin Tendulkar - ABC News",
+            "description": "It was arguably cricket's most famous afternoon tea, and came from one man who simply dared to make a few phone calls.",
+            "url": "https://www.abc.net.au/news/2023-01-23/man-who-organised-meeting-between-bradman-and-tendulkar/101879190",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/e697ce28b06bf02fa437f85cd246a53e?impolicy=wcms_crop_resize&cropH=498&cropW=885&xPos=0&yPos=1&width=862&height=485",
+            "publishedAt": "2023-01-22T19:03:44Z",
+            "content": "It was arguably cricket's most famous afternoon tea.\r\nThe footage of Sachin Tendulkar and Shane Warne visiting Sir Donald Bradman's home went around the world.\r\nPhotographs of the men standing below … [+7300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Scorchers' explosive start overcomes Finch's fast finish| BBL|12 - cricket.com.au",
+            "description": "Get highlights during and straight after the game by downloading our app: https://app.cricket.com.au/Perth Scorchers posted 5-212 after Cameron Bancroft’s te...",
+            "url": "https://www.youtube.com/watch?v=NBIplbRhQzY",
+            "urlToImage": "https://i.ytimg.com/vi/NBIplbRhQzY/maxresdefault.jpg",
+            "publishedAt": "2023-01-22T15:20:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "cricket.com.au"
+            },
+            "author": "AAP",
+            "title": "Johnson does it again as Heat win thriller - cricket.com.au",
+            "description": "On Friday night he conceded just five runs in the final over and today it was only nine as Spencer Johnson brilliantly closed out the game to secure another close win for the Heat",
+            "url": "https://www.cricket.com.au/news/match-report/brisbane-heat-melbourne-stars-gabba-bbl-12-highlights-scores/2023-01-22",
+            "urlToImage": "https://www.cricket.com.au/~/-/media/News/2023/01/22JohnsonClutchAgain.ashx?w=1600",
+            "publishedAt": "2023-01-22T06:44:43Z",
+            "content": "Heat climb to third after another Stars heart-breaker\r\nBrisbane's late season surge towards the KFC BBL|12 finals has continued with a thrilling four-run victory over Melbourne Stars at the Gabba.\r\nL… [+2452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nine"
+            },
+            "author": "Damien McCartney",
+            "title": "Out or not out? Cricket world divided over bizarre dead ball call - Wide World of Sports",
+            "description": "'She's clean bowled'",
+            "url": "https://wwos.nine.com.au/cricket/australia-v-pakistan-third-odi-nida-dar-pull-out-tahlia-mcgrath-not-out/670c933e-f4a9-41d5-8941-3a69a71d9463",
+            "urlToImage": "https://imageresizer.static9.net.au/nph_aATvNtu-zT929GYEHmOxRoc=/0x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Fcddf13bc-d215-41ab-8570-7f0df8894d28",
+            "publishedAt": "2023-01-21T22:30:45Z",
+            "content": "Debate is raging in the cricket world after veteran Pakistan batter Nida Dar was given a reprieve after being apparently bowled by Tahlia McGrath in yesterday's third and final ODI at North Sydney Ov… [+3019 chars]"
+        }
+    ]
+}
